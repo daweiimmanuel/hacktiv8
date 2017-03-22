@@ -1,0 +1,5 @@
+Siang, nama saya David, ikut Hactiv8 karena saya ingin belajar lebih dalam tentang web development menggunakan stack ReactJS, React Native, NodeJS dan bagaimana membuat aplikasi yang production-ready sehingga ke depan saya dapat membuat sendiri platform yang saya impikan.
+
+Developer favorit: Sergey Brin dan Larry Page
+
+Salam
